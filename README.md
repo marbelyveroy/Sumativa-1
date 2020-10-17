@@ -1,7 +1,7 @@
 (D)RAE - Consulta los diccionarios de la RAE
 =========================================
 
-Fork del proyecto de Angel Carmona.
+Fork del proyecto de Marbely Veroy.
 
 El módulo **rae** contiene las siguientes clases:
 - **Article**
