@@ -33,8 +33,6 @@ Historial de cambios
 
 -- Versión 0.0.5: Añadido install_requires en setup.py
 
--- Subo el proyecto a PyPI (https://pypi.org/project/rae/) Versión 0.0.4
-
 -- Cambio de nombre del proyecto a RAE
 
 -- Expresiones regulares en vez de index() y slicing
